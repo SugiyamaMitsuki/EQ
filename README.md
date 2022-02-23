@@ -100,3 +100,5 @@ basemapの使用のために必要なパッケージ
 　self.eq_keyは①のフォルダ名（年_月日_時分）と同じにする。
 　震源の緯度経度、深さ、マグニチュードを入力する。
 
+出力例
+![加速度波形](https://github.com/SugiyamaMitsuki/EQ/blob/main/acc_JMA_47286_NS.png)

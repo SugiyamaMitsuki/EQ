@@ -3,6 +3,7 @@
 杉山充樹
 
 # 地震動観測記録
+
 # 気象庁
 気象庁｜長周期地震動に関する観測情報
 http://www.data.jma.go.jp/svd/eew/data/ltpgm_explain/data/past/past_list.html
@@ -76,16 +77,10 @@ pandas
 ・Paste_up.py
 ペーストアップを描写する。
 
-・Draw_map_by_python.py
-pythonのbasemapによって最大加速度の分布などを描写する。
-basemapのインストールに苦労した。
-
 ・calculusパッケージ
 計算時のもろもろの処理をするためのパッケージ
 ・meshcode_lonlatパッケージ
 メッシュコードと緯度経度を変換するパッケージ
-・for_basemapパッケージ
-basemapの使用のために必要なパッケージ
 
 
 
